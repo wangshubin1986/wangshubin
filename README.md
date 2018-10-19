@@ -29,13 +29,13 @@
 * 2013-2014
   访问学者，美国农业部农业研究局北方实验室，北达科它州立大学农业科学系，Steven S. Xu研究员
 课题组。  
-  期间主要从事：
- （1）小麦耐盐QTL分析。
+  期间主要从事：  
+ （1）小麦耐盐QTL分析。  
  （2）小麦秆锈病抗性基因遗传定位；
 
 ---
 
-* 发表文章
+* 发表文章  
 Wang M, **Wang SB**, Liang Z, Shi WM, Gao CX, Xia GM. (2017). From Genetic Stock to Genome Editing: Gene Exploitation in Wheat. Trands in Biotechology. (*并列一作)
   
 Wang M, **Wang SB**, Xia GM. (2015). [From genome to gene: a new epoch for wheat research?](http://doi.10.1016/j.tplants.2015.03.010) Trends in Plant Science, 20:380-387.
