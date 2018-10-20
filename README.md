@@ -36,6 +36,7 @@
 ---
 
 * 发表文章
+
 Wang M, **Wang SB**, Liang Z, Shi WM, Gao CX, Xia GM. (2017). From Genetic Stock to Genome Editing: Gene Exploitation in Wheat. Trands in Biotechology. (*并列一作)
 
 Wang M, **Wang SB**, Xia GM. (2015). [From genome to gene: a new epoch for wheat research?](http://doi.10.1016/j.tplants.2015.03.010) Trends in Plant Science, 20:380-387.
