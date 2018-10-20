@@ -37,11 +37,11 @@
 
 * 发表文章  
 Wang M, **Wang SB**, Liang Z, Shi WM, Gao CX, Xia GM. (2017). From Genetic Stock to Genome Editing: Gene Exploitation in Wheat. Trands in Biotechology. (*并列一作)
-  
+
 Wang M, **Wang SB**, Xia GM. (2015). [From genome to gene: a new epoch for wheat research?](http://doi.10.1016/j.tplants.2015.03.010) Trends in Plant Science, 20:380-387.
-.  
+
 **Wang SB**, Han HN, Liang Y, Sun L, Xia GM, Liu SW. (2014). [Isolation and characterization of novel Glu-St1 alleles from Pseudoroegneria spicata and Pd. strigosa](http://doi.10.1007/s10709-014-9787-0). Genetica, 142:433-440. (并列一作)
-  
+
 隋晓燕, 赵琰, **王树彬**, 段晓亮, 许兰杰, 梁荣奇, 李保云. (2012). [无载体框架结构的大豆铁蛋白线性表达盒提高小麦籽粒铁含量的研究](http://doi.10.3969/j.issn.1674-7968.2012.07.006). 农业生物技术学报, 20.
 
 ---
